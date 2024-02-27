@@ -1,6 +1,6 @@
 # New-Zealand-Disability-Status
 ## Project objective:
-Builing dashboards using MS Excel and Power Bi to analyse New Zealnd disability status by place of residence, age group, sex and ethnic group, 2006 Information on table.
+Building dashboards using MS Excel and Power Bi to analyse New Zealand disability status by place of residence, age group, sex and ethnic group, 2006 Information on table.
 
 ## Tools:
 - Data Cleaning: MS Excel
